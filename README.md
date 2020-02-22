@@ -8,6 +8,9 @@ Part 2 in this challenge is to develop a viable business case for the solution d
 Authors:
 --------
 Oskar Olin, olinoskar@gmail.com
+
 Victor Olsson, victor.olssn@gmail.com
+
 Andreas Dahlberg, andreas_dahlberg@outlook.com
+
 Anton Mattsson, anton.mattsson94@gmail.com
