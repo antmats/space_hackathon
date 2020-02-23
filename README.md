@@ -1,5 +1,5 @@
 # space_hackathon
-This our the repository for the Space Data Hackathon. The hackathon was divided into two tasks, Part 1 and Part2.
+This our repository for the Space Data Hackathon. The hackathon was divided into two tasks, Part 1 and Part2.
 
 Part 1 in this challenge is to use the Swedish satellite data (e.g. Sentinel-2 — provided through ODC) to train a model that is able to estimate certain statistics for an occluded area based on the information from the surrounding area, as reliably and accurately as possible. 
 
